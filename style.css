@@ -253,10 +253,9 @@ a {
     margin-top: 10px;
     margin-right: 30px;
 }
-
 /* box目錄區域結束 */
 
-/* 把 li 的父層 ul 修改成一行能裝 5 個盒子就不會換行了 */
+
 .box-bd ul {
     width: 1215px;
 }
