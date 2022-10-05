@@ -6,6 +6,9 @@
 body {
     background-color: #f3f5f7;
 }
+body, html {
+    overflow-x: hidden;
+} 
 
 li {
     list-style: none;
@@ -103,6 +106,10 @@ a {
     margin-right: 30px;
     font-size: 14px;
     color: #666;
+}
+
+.user img{
+    vertical-align: middle;
 }
 
 .banner {
